@@ -1,0 +1,110 @@
+body {
+  background-color: lightblue;
+  font-family: "", sans-serif;
+  color: white;
+}
+h1 {
+  color: purple;
+  font-family: "Papyrus", fantasy;
+  margin-left:385px;
+  font-size:40px;
+}
+h2 {
+  color:orange;
+  font-family:"Papyrus", fantasy;
+  margin-left:450px;
+  font-size:35px;
+}
+h3 {
+  color: purple;
+  font-family: "Papyrus", fantasy;
+  font-size:20px;
+}
+h4 {
+  color:orange;
+  font-family: "Papyrus", fantasy;
+  margin-left:470px;
+  font-size:35px;
+}
+h5 {
+  color: purple;
+  font-family: "Papyrus", fantasy;
+  font-size:20px;
+  margin-left:415px;
+}
+nav ul {
+  background-color: lavender;
+  border-style: solid;
+  border-color: MediumVioletRed;
+  border-width: 3px;
+  padding: 10px;
+  border-radius: 10px;
+  font-size:20px;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 208.5px;
+    color: Orange;
+    font-family: "Impact", serif;
+}
+nav ul li a {
+    text-decoration: none;
+    color: Purple;
+}
+j img {
+  margin-left:290px;
+}
+n img {
+  margin-left:290px;
+}
+p {
+  color:darkgreen;
+  font-size: 20px;
+  font-family: "Times New Roman", serif;
+  margin-left: 294px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid DarkRed;
+  border-collapse: collapse;
+}
+tr {
+  background-color: HoneyDew;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: Red;
+}
+td {
+  color: Red;
+}
+/********************************/
